@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h1 align="center">Hi 👋, I'm Dhaniaffa Adhimastama Mahadika</h1>
+- Hi 👋, I'm **Dhaniaffa Adhimastama Mahadika**
 - 🌱 I’m currently learning **React**
 
 ## 🌐 Socials:
